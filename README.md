@@ -47,9 +47,22 @@
 2. 下载 `滑索机器人装配体.zip` 获取三维模型
 3. 参考 `滑索机器人结项报告.pdf` 了解详细设计与实现
 
+## 👤 作者
+
+**许传岳 (Xu Chuanyue)**
+
+📧 cone2540@sjtu.edu.cn
+
 ## 📄 许可证
 
-本项目为学术课程项目，仅供学习参考。
+本项目代码部分采用 [GNU General Public License v3.0](LICENSE) 协议开源。
+
+- **源代码**：GPL v3 — 可自由使用、修改、分发，但衍生作品必须同样以 GPL v3 开源。
+- **文档/模型/视频**：CC BY-SA 4.0 — 署名-相同方式共享。
+
+```
+Copyright (C) 2024 许传岳 (Xu Chuanyue) <cone2540@sjtu.edu.cn>
+```
 
 ---
 
